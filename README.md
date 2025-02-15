@@ -36,7 +36,7 @@ apt install -y git wget python python-pip python-venv
 ```
 ## Running the Code
 ```bash
-git clone https://github.com/Kappi7581/Kappi7581-Instagram-Hesap-Calma/.git
+git clone https://github.com/Kappi7581/Kappi7581-Instagram-Hesap-Calma
 cd Kappi7581-Instagram-Hesap-Calma
 chmod +x Kappi7581
 ./Kappi7581
